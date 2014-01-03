@@ -1,0 +1,30 @@
+[Infamous Open Android Project](http://www.infamousdevelopment.com/)
+====================================
+
+
+Download the Source
+===================
+
+Please read the [AOSP building instructions](http://source.android.com/source/index.html) before proceeding.
+
+Initializing Repository
+-----------------------
+
+To initialize your local repository using my trees, use the following command:
+
+*   mkdir ~/IOAP
+*   cd ~/IOAP
+*   repo init -u https://github.com/IOAP/android.git -b kitkat
+*   repo sync
+
+
+Then to sync:
+
+*   repo sync -j16
+
+Building:
+----------
+
+    
+    
+
