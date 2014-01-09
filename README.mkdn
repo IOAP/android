@@ -18,13 +18,10 @@ To initialize your local repository using my trees, use the following command:
 *   repo sync
 
 
-Then to sync:
-
-*   repo sync -j16
-
 Building:
 ----------
 
-    
-    
+*   ./build.sh <device>
+*
+*   ./build.sh jfltetmo
 
