@@ -493,7 +493,8 @@
   <project path="packages/services/Telephony" name="IOAP/android_packages_services_Telephony" remote="github" revision="kitkat" />
   <project path="packages/apps/Dialer" name="PixelROM/android_packages_apps_Dialer" remote="github" revision="pixel-4.4" />
   <project path="packages/apps/InCallUI" name="PixelROM/android_packages_apps_InCallUI" remote="github" revision="pixel-4.4" />
-  
+  <project path="kernel/samsung/jf" name="IOAP/kernel_samsung_jf" remote="github" revision="kitkat" />
+
   <project path="vendor/cm" name="IOAP/android_vendor_cm" remote="github" revision="kitkat" />
   <project path="vendor/ioap" name="IOAP/android_vendor_ioap" remote="github" revision="kitkat" >
       <copyfile src="tools/build.sh" dest="build.sh" />
