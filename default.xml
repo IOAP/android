@@ -492,8 +492,8 @@
   <project path="packages/apps/Settings" name="IOAP/android_packages_apps_Settings" remote="github" revision="kitkat" />
   <project path="packages/apps/ROMControl" name="IOAP/packages_apps_ROMControl" remote="github" revision="kitkat" />
   <project path="packages/services/Telephony" name="IOAP/android_packages_services_Telephony" remote="github" revision="kitkat" />
-  <project path="packages/apps/Dialer" name="IOAP/android_packages_apps_Dialer" remote="github" revision="pixel-4.4" />
-  <project path="packages/apps/InCallUI" name="IOAP/android_packages_apps_InCallUI" remote="github" revision="pixel-4.4" />
+  <project path="packages/apps/Dialer" name="IOAP/android_packages_apps_Dialer" remote="github" revision="kitkat" />
+  <project path="packages/apps/InCallUI" name="IOAP/android_packages_apps_InCallUI" remote="github" revision="kitkat" />
   <project path="kernel/samsung/jf" name="IOAP/kernel_samsung_jf" remote="github" revision="kitkat" />
 
   <project path="vendor/cm" name="IOAP/android_vendor_cm" remote="github" revision="kitkat" />
