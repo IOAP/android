@@ -337,7 +337,6 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
@@ -484,6 +483,7 @@
   <!-- IOAP -->  
   <project path="frameworks/base" name="IOAP/android_frameworks_base" remote="github" revision="kitkat" />
   <project path="frameworks/native" name="IOAP/android_frameworks_native" remote="github" revision="kitkat" groups="pdk" />
+  <project path="packages/apps/Camera2" name="IOAP/android_packages_apps_Camera2" remote="github" revision="kitkat" />>
   <project path="packages/apps/DashClock" name="omnirom/android_packages_apps_DashClock" remote="github" revision="android-4.4" />
   <project path="packages/apps/Gallery2" name="IOAP/android_packages_apps_Gallery2" remote="github" revision="kitkat" />
   <project path="packages/apps/HALO" name="IOAP/HALO" remote="github" revision="kitkat" />
