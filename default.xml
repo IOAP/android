@@ -463,22 +463,13 @@
 
   <!-- Pinky-Inky-and-Clyde -->
   <project path="vendor/asus" name="Pinky-Inky-and-Clyde/proprietary_vendor_asus" remote="github" revision="cm-11.0" />
-  <project path="vendor/bn" name="Pinky-Inky-and-Clyde/proprietary_vendor_bn" remote="github" revision="cm-11.0" />
-  <project path="vendor/htc" name="Pinky-Inky-and-Clyde/proprietary_vendor_htc" remote="github" revision="cm-11.0" />
-  <project path="vendor/lge" name="Pinky-Inky-and-Clyde/proprietary_vendor_lge" remote="github" revision="cm-11.0" />
-  <project path="vendor/motorola" name="razrqcom-dev-team/proprietary_vendor_motorola" remote="github" revision="cm-11.0" />
   <project path="vendor/samsung" name="Pinky-Inky-and-Clyde/proprietary_vendor_samsung" remote="github" revision="cm-11.0" />
-  <project path="vendor/sony" name="Pinky-Inky-and-Clyde/proprietary_vendor_sony" remote="github" revision="cm-11.0" />
   <project path="vendor/broadcom" name="Pinky-Inky-and-Clyde/proprietary_vendor_broadcom" remote="github" revision="cm-11.0" />
-  <project path="vendor/elan" name="Pinky-Inky-and-Clyde/proprietary_vendor_elan" remote="github" revision="cm-11.0" />
-  <project path="vendor/imgtec" name="Pinky-Inky-and-Clyde/proprietary_vendor_imgtec" remote="github" revision="cm-11.0" />
-  <project path="vendor/invensense" name="Pinky-Inky-and-Clyde/proprietary_vendor_invensense" remote="github" revision="cm-11.0" />
-  <project path="vendor/nvidia" name="Pinky-Inky-and-Clyde/proprietary_vendor_nvidia" remote="github" revision="cm-11.0" />
-  <project path="vendor/nxp" name="Pinky-Inky-and-Clyde/proprietary_vendor_nxp" remote="github" revision="cm-11.0" />
-  <project path="vendor/widevine" name="Pinky-Inky-and-Clyde/proprietary_vendor_widevine" remote="github" revision="cm-11.0" />
-  <project path="vendor/oppo" name="Pinky-Inky-and-Clyde/proprietary_vendor_oppo" remote="github" revision="cm-11.0" />
-  <project path="vendor/acer" name="Pinky-Inky-and-Clyde/proprietary_vendor_acer" remote="github" revision="cm-11.0" />
+ <project path="vendor/oppo" name="Pinky-Inky-and-Clyde/proprietary_vendor_oppo" remote="github" revision="cm-11.0" />
   <project path="vendor/google" name="Pinky-Inky-and-Clyde/proprietary_vendor_google" remote="github" revision="cm-11.0" />
+  <!-- Device extras: legacy support -->
+  <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy" revision="cm-10.2" />
+  <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media_legacy" revision="cm-10.2" />
 
   <!-- IOAP -->  
   <project path="frameworks/base" name="IOAP/android_frameworks_base" remote="github" revision="kitkat" />
