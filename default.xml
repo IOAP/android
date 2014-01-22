@@ -347,7 +347,6 @@
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
@@ -442,7 +441,6 @@
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
-  <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="qcom" />
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" />
@@ -467,6 +465,8 @@
   <project path="frameworks/native" name="IOAP/android_frameworks_native" remote="github" revision="kitkat" groups="pdk" />
   <project path="packages/apps/Camera2" name="IOAP/android_packages_apps_Camera2" remote="github" revision="kitkat" />>
   <project path="packages/apps/DashClock" name="omnirom/android_packages_apps_DashClock" remote="github" revision="android-4.4" />
+  <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="github" revision="android-4.4" />
+  <project path="system/media" name="omnirom/android_system_media" groups="pdk" remote="github" revision="android-4.4" />
   <project path="packages/apps/Gallery2" name="IOAP/android_packages_apps_Gallery2" remote="github" revision="kitkat" />
   <project path="packages/apps/HALO" name="IOAP/HALO" remote="github" revision="kitkat" />
   <project path="packages/inputmethods/LatinIME" name="IOAP/android_packages_inputmethods_LatinIME" remote="github" revision="kitkat" />>
