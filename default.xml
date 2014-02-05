@@ -468,6 +468,7 @@
   <project path="packages/apps/HALO" name="IOAP/HALO" remote="github" revision="kitkat" />
   <project path="packages/apps/InCallUI" name="IOAP/android_packages_apps_InCallUI" remote="github" revision="kitkat" />
   <project path="packages/apps/Mms" name="IOAP/android_packages_apps_Mms" remote="github" revision="kitkat" />
+  <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch/" remote="github" revision="android-4.4" />
   <project path="packages/apps/ScreenRecorder" name="ChameleonOS/android_packages_apps_ScreenRecorder" remote="github" revision="kitkat" />
   <project path="packages/apps/Settings" name="IOAP/android_packages_apps_Settings" remote="github" revision="kitkat" />
   <project path="packages/apps/Torch" name="IOAP/android_packages_apps_Torch" remote="github" revision="kitkat" />
