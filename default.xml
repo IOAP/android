@@ -430,7 +430,7 @@
   <project path="build" name="IOAP/android_build" groups="pdk" remote="github" revision="44" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="android" remote="github" revision="44" />
+  <project path="android" name="IOAP/android" remote="github" revision="44" />
   <project path="frameworks/av" name="IOAP/android_frameworks_av" groups="pdk" remote="github" revision="44" />
   <project path="frameworks/base" name="IOAP/android_frameworks_base" remote="github" revision="44" />
   <project path="frameworks/native" name="IOAP/android_frameworks_native" groups="pdk" remote="github" revision="44" />
