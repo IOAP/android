@@ -434,6 +434,7 @@
   <project path="frameworks/av" name="IOAP/android_frameworks_av" groups="pdk" remote="github" revision="44" />
   <project path="frameworks/base" name="IOAP/android_frameworks_base" remote="github" revision="44" />
   <project path="frameworks/native" name="IOAP/android_frameworks_native" groups="pdk" remote="github" revision="44" />
+  <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" remote="github" revision="kk4.4" />
   <project path="frameworks/opt/datetimepicker" name="IOAP/android_frameworks_opt_datetimepicker" remote="github" revision="44" />
   <project path="frameworks/opt/telephony" name="IOAP/android_frameworks_opt_telephony" groups="pdk" remote="github" revision="44" />
   <project path="frameworks/opt/timezonepicker" name="IOAP/android_frameworks_opt_timezonepicker" remote="github" revision="44" />
