@@ -3,7 +3,8 @@
 
   <remote name="aosp"
           fetch="https://android.googlesource.com"
-          review="android-review.googlesource.com" />
+          review="android-review.googlesource.com"
+          revision="refs/tags/android-4.4.2_r2" />
 
   <remote  name="github"
            fetch=".."
@@ -448,6 +449,7 @@
   <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="github" revision="android-4.4" />
   <project path="packages/apps/Email" name="IOAP/android_packages_apps_Email" remote="github" revision="44" />
   <project path="packages/apps/Gallery2" name="IOAP/android_packages_apps_Gallery2" remote="github" revision="44" />
+  <project path="packages/apps/GPSOptimizer" name="AOSB/android_packages_apps_GPSOptimizer" remote="github" revision="master" />
   <project path="packages/apps/InCallUI" name="IOAP/android_packages_apps_InCallUI" remote="github" revision="44" />
   <project path="packages/apps/Mms" name="IOAP/android_packages_apps_Mms" remote="github" revision="44" />
   <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="github" revision="android-4.4" />
