@@ -277,6 +277,7 @@
   <project path="external/powertop" name="CyanogenMod/android_external_powertop" remote="github" />
   <project path="external/ppp" name="CyanogenMod/android_external_ppp" remote="github" />
   <project path="external/proguard" name="CyanogenMod/android_external_proguard" groups="pdk-java" remote="github" />
+  <project path="external/protobuf-c" name="CyanogenMod/android_external_protobuf-c" />
   <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" groups="pdk" remote="github" />
   <project path="external/qemu" name="CyanogenMod/android_external_qemu" remote="github" />
   <project path="external/qemu-pc-bios" name="CyanogenMod/android_external_qemu-pc-bios" remote="github" />
