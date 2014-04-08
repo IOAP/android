@@ -154,6 +154,7 @@
   <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" groups="pdk" remote="github" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" remote="github" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" groups="pdk" remote="github" />
+  <project path="external/bson" name="CyanogenMod/android_external_bson" remote="github" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" groups="pdk" remote="github" />
   <project path="external/checkpolicy" name="CyanogenMod/android_external_checkpolicy" groups="pdk" remote="github" />
@@ -164,6 +165,7 @@
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" groups="pdk" remote="github" />
   <project path="external/connectivity" name="CyanogenMod/android_external_connectivity" remote="github" />
   <project path="external/crda" name="CyanogenMod/android_external_crda" remote="github" />
+  <project path="external/curl" name="CyanogenMod/android_external_curl" remote="github" />
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" remote="github" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" remote="github" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" groups="pdk" remote="github" />
