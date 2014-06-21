@@ -48,6 +48,7 @@
   <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/skia/gyp" name="platform/external/chromium_org/third_party/skia/gyp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/skia/include" name="platform/external/chromium_org/third_party/skia/include" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/skia/src" name="platform/external/chromium_org/third_party/skia/src" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -58,7 +59,9 @@
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libexif" name="platform/external/libexif" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libssh2" name="platform/external/libssh2" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -438,6 +441,7 @@
   </project>
   <project path="android" name="IOAP/android" remote="github" revision="44" />
   <project path="development" name="IOAP/android_development" remote="github" revision="44" />
+  <project path="external/chromium_org" name="android_external_chromium_org" remote="pac" revision="pac-4.4" />
   <project path="frameworks/av" name="IOAP/android_frameworks_av" groups="pdk" remote="github" revision="44" />
   <project path="frameworks/base" name="IOAP/android_frameworks_base" remote="github" revision="44" />
   <project path="frameworks/native" name="IOAP/android_frameworks_native" groups="pdk" remote="github" revision="44" />
