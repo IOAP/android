@@ -78,7 +78,7 @@
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -163,7 +163,6 @@
   <project path="external/checkpolicy" name="CyanogenMod/android_external_checkpolicy" groups="pdk" remote="github" />
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" remote="github" />
   <project path="external/chromium-trace" name="CyanogenMod/android_external_chromium-trace" groups="pdk" remote="github" />
-  <project path="external/chromium_org" name="CyanogenMod/android_external_chromium_org" remote="github" />
   <project path="external/chromium_org/third_party/openssl" name="CyanogenMod/android_external_chromium_org_third_party_openssl" remote="github" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" groups="pdk" remote="github" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" groups="pdk" remote="github" />
