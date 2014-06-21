@@ -14,7 +14,7 @@ To initialize your local repository using my trees, use the following command:
 
 *   mkdir ~/IOAP
 *   cd ~/IOAP
-*   repo init -u https://github.com/IOAP/android.git -b kitkat
+*   repo init -u https://github.com/IOAP/android.git -b 443
 *   repo sync
 
 
